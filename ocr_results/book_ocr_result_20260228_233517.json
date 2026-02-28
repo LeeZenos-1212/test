@@ -1,0 +1,33 @@
+{
+    "test_1.jpg": [
+        "图书在版编目(CIP)数据",
+        "高中数学新体系.圆锥曲线的秘密/苏立标编著.一杭",
+        "州：浙江大学出版社，2022.3(2024.12重印）",
+        "ISBN 978-7-308-22405-5",
+        "川.O中学数学课一高中一教",
+        "Ⅱ.0苏…",
+        "I.①高…",
+        "IW . DG634. 603",
+        "学参考资料",
+        "中国版本图书馆CIP数据核字(2022)第040530号",
+        "高中数学新体系(圆锥曲线的秘密)"
+    ],
+    "test_2.jpg": [
+        "ALT",
+        "UEN",
+        "CTRL",
+        "图书在版编目（CIP）数据",
+        "与青春期和解:增订升级版/(美）劳伦斯·斯坦",
+        "伯格著；王垒，王莉，童佳瑾译，--北京：中信出版",
+        "社,2025.5（2025.9重).--ISBN 978-7-5217-7424-5",
+        "I.G782",
+        "中国国家版本馆CIP数据核字第2025C3R863号",
+        "Copyright 1990, 1997 by Laurence Steinberg and Ann Levine",
+        "Copyright0 2011 by Laurence Steinberg, Ph.D.",
+        "Simplied Chins translaton copright 2023 y CITC ress Corportion",
+        "ulisedbyaranent th hthrco evne Grenbe osta Litery gng",
+        "through Bardon-Chinese Media Agency",
+        "All rights reserved.",
+        "本书仅限中国大陆地区发行销售"
+    ]
+}

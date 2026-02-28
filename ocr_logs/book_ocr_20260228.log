@@ -1,0 +1,48 @@
+2026-02-28 23:16:10 - INFO - cnocr_module - CNOCR model initialized successfully
+2026-02-28 23:16:10 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:16:10 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:16:10 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:16:10 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:16:10 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:16:10 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_231610.json
+2026-02-28 23:16:10 - INFO - cnocr_module - Batch recognition finished. Total time: 0.52s
+2026-02-28 23:20:14 - INFO - cnocr_module - CNOCR model (book print font) initialized successfully
+2026-02-28 23:20:14 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:20:14 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:20:14 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:20:14 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:20:15 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:20:15 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_232015.json
+2026-02-28 23:20:15 - INFO - cnocr_module - Batch recognition finished. Total time: 0.3s
+2026-02-28 23:22:35 - INFO - cnocr_module - CNOCR model (book print font) initialized successfully
+2026-02-28 23:22:35 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:22:35 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:22:35 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:22:35 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:22:35 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:22:35 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_232235.json
+2026-02-28 23:22:35 - INFO - cnocr_module - Batch recognition finished. Total time: 0.33s
+2026-02-28 23:27:48 - INFO - cnocr_module - CNOCR model (book print font) initialized successfully
+2026-02-28 23:27:48 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:27:48 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:27:48 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:27:48 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:27:48 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:27:48 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_232748.json
+2026-02-28 23:27:48 - INFO - cnocr_module - Batch recognition finished. Total time: 0.29s
+2026-02-28 23:32:04 - INFO - cnocr_module - CNOCR model (book print font) initialized successfully
+2026-02-28 23:32:04 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:32:04 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:32:04 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:32:04 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:32:04 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:32:04 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_233204.json
+2026-02-28 23:32:04 - INFO - cnocr_module - Batch recognition finished. Total time: 0.44s
+2026-02-28 23:35:11 - INFO - cnocr_module - CNOCR model (book print font) initialized successfully
+2026-02-28 23:35:11 - INFO - cnocr_module - Start batch recognition. Total images: 2
+2026-02-28 23:35:11 - INFO - cnocr_module - [1/2] Processing image: test_1.jpg
+2026-02-28 23:35:14 - INFO - cnocr_module - [1/2] Success: test_1.jpg
+2026-02-28 23:35:14 - INFO - cnocr_module - [2/2] Processing image: test_2.jpg
+2026-02-28 23:35:17 - INFO - cnocr_module - [2/2] Success: test_2.jpg
+2026-02-28 23:35:17 - INFO - cnocr_module - Result saved to: d:\coding\project\test\ocr_results\book_ocr_result_20260228_233517.json
+2026-02-28 23:35:17 - INFO - cnocr_module - Batch recognition finished. Total time: 5.84s
